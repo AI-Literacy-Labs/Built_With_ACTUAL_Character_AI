@@ -1,3 +1,9 @@
+<!--
+Copyright © 2025 Travis Gilly / Real Safety AI Foundation
+Source Available License - Commercial Use Prohibited
+See LICENSE.md - Prior Art Publication / Patent Pending
+-->
+
 SAFE AI Companion Platform
 Building what should have existed from the start: AI companions that actually keep kids safe.
 Copyright © 2025 Travis Gilly / Real Safety AI Foundation
