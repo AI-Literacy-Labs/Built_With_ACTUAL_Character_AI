@@ -1,3 +1,9 @@
+<!--
+   Copyright © 2025 Travis Gilly / Real Safety AI Foundation
+   Licensed under CC BY-NC-ND 4.0 - NO COMMERCIAL USE
+   See LICENSE.md - Prior Art / Patent Pending
+   -->
+
 ## ⚠️ License Notice
    
    This project is **NOT open source**. Commercial use is prohibited.  
